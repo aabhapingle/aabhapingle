@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I am Aabha Pingle 👋
 
 <!--
 **aabhapingle/aabhapingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
+
+
+I am a Machine Learning enthusiast and I also a Web developer. I am pursuing my bachelor's degree in computer science from Pune Institute Of Computer Technology. I am interested in using technology for the benefit of the society. My other interests include dancing, public speaking and travelling.    
