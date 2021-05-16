@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a Machine Learning enthusiast and I also a Web developer. I am pursuing my bachelor's degree in computer science from Pune Institute Of Computer Technology. I am interested in using technology for the benefit of the society. My other interests include dancing, public speaking and travelling.  
+I am a Machine Learning enthusiast and also a Web developer. I am pursuing my bachelor's degree in computer science from Pune Institute Of Computer Technology. I am interested in using technology for the benefit of the society. My other interests include dancing, public speaking and travelling.  
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=aabhapingle&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
